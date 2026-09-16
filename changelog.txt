@@ -1,0 +1,94 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.7
+Date: 00. 00. 2026
+
+Info:
+- Bugfix (Renai Transportation)
+---------------------------------------------------------------------------------------------------
+Version: 1.0.6
+Date: 15 . 09. 2026
+
+Info:
+- Science Tab 1.12.2 (in Mod integriert)
++ Renai Transportation 2.3.3
+---------------------------------------------------------------------------------------------------
+Version: 1.0.5 (für Factorio 2.0)
+Date: 14 . 09. 2026
+
+Info:
+- Bugfix (Inventory Gauge)
+---------------------------------------------------------------------------------------------------
+Version: 1.0.4 (für Factorio 2.0)
+Date: 14 . 09. 2026
+
+Info:
++ Inventory Gauge 1.3.0
+---------------------------------------------------------------------------------------------------
+Version: 1.0.3
+Date: 12 . 09. 2026
+
+Info:
++ Lane Balancers 1.3.0
++ Mini Trains 2.1.0
+---------------------------------------------------------------------------------------------------
+Version: 1.0.2 (für Factorio 2.0)
+Date: 12 . 09. 2026
+
+Info:
++ More Minimap Autohide 2.0.0
+---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 25 . 08. 2026
+
+Info:
+- Bugfix (Milestones)
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 25 . 08. 2026
+
+Info:
++ Barreling Group 0.6.0
++ Honk 5.2.1
++ Module Category Defaults 2.2.0
++ Milestones 1.5.2
++ Planetaris Dyes 1.0.6
++ Schall Circuit Group 2.0.1
++ Schall Transport Group 2.0.2
++ Science Tab 1.12.2
++ Spidertron Enhancements 1.11.0
++ Spidertron Patrols 2.7.0
++ Nonstandard Beacons 1.4.2
+---------------------------------------------------------------------------------------------------
+Version: 0.1.3
+Date: 24. 08. 2026
+
+Info:
++ Combinator-Toggle 1.0.0
++ Customizable Quality Names 1.1.0
++ Disco Science Lite 0.6.2
++ Fill4Me 1.0.2
++ Filter Helper 0.2.27
+---------------------------------------------------------------------------------------------------
+Version: 0.1.2
+Date: 24. 08. 2026
+
+Info:
++ Starmap Background 2.4.1
++ Biter Cleanup 4.2.1
++ Canal Excavator 1.14.1
++ Cargo Ships 2.1.6
+---------------------------------------------------------------------------------------------------
+Version: 0.1.1
+Date: 22. 08. 2026
+
+Info:
++ Bottleneck Lite 1.4.1
++ Ammo Group 1.1.4
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 22. 08. 2026
+
+Info:
++ AAI Containers 0.4.0
++ AAI Ironclad 0.8.0
++ Agricultural Tower Placement Helper 1.1.0
