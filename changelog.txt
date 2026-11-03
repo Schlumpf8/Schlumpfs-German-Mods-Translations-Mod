@@ -1,9 +1,90 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.18
+Date: 03. 11. 2026
+
+Info:
++ Air Scrubber 0.2.9
++ Birdengineer 1.0.2
++ doeWorks Rocket Artillery Continued 1.0.0
+---------------------------------------------------------------------------------------------------
+Version: 1.0.17
+Date: 25. 10. 2026
+
+Info:
++ Dynamic Rain 1.2.0
++ Return-Inserter 1.0.0
++ Water Is Not Infinite 1.0.0
+---------------------------------------------------------------------------------------------------
+Version: 1.0.16 (für Factorio 2.0)
+Date: 21. 10. 2026
+
+---------------------------------------------------------------------------------------------------
+Version: 1.0.15
+Date: 21. 10. 2026
+
+Info:
++ Area Heating Tower 1.1.2
++ Ash 2.2.1
++ Promethium Age 1.0.2
++ Promethium Age Fork 1.1.1
++ Promethium Processing (FG) 1.2.2
++ Radiation Damage 1.0.0
++ Spoilage Combinator 1.0.0
++ Zen Garden 0.6.4
+---------------------------------------------------------------------------------------------------
+Version: 1.0.14 (für Factorio 2.0)
+Date: 10. 10. 2026
+---------------------------------------------------------------------------------------------------
+Version: 1.0.13
+Date: 10. 10. 2026
+
+Info:
++ Biological Machines: Alternative Nutrients 1.0.1
++ Boompuff Agriculture 1.1.2
++ Bradythehuman's Promethium Belts 1.0.1
++ Demolisher Agriculture 1.1.2
++ Fluroflux: Stingfrond Agriculture 1.1.1
++ Slipstack Agriculture 1.1.3
+---------------------------------------------------------------------------------------------------
+Version: 1.0.12
+Date: 24. 09. 2026
+
+Info:
++ Biochemistry 1.0.1
++ Button Combinator 0.3.6
++ Nauvi-Tea 1.1.1
+---------------------------------------------------------------------------------------------------
+Version: 1.0.11 (für Factorio 2.0)
+Date: 22. 09. 2026
+---------------------------------------------------------------------------------------------------
+Version: 1.0.10
+Date: 22. 09. 2026
+
+Info:
++ Upcycler Planner 1.2.4
+---------------------------------------------------------------------------------------------------
+Version: 1.0.9
+Date: 20. 09. 2026
+
+Info:
++ Cryo-Container 1.1.0
++ QuingKhaos' Ammo Group 2.4.2
++ QuingKhaos' Circuitry Group 2.0.1
++ QuingKhaos' Factorio Library 2.2.0
++ QuingKhaos' Kitbashing Toolkit 2.1.0
++ QuingKhaos' Modules Group 2.1.1
++ QuingKhaos' Transport Group 2.3.0
+---------------------------------------------------------------------------------------------------
+Version: 1.0.8 (für Factorio 2.0)
+Date: 18. 09. 2026
+---------------------------------------------------------------------------------------------------
 Version: 1.0.7
-Date: 00. 00. 2026
+Date: 18. 09. 2026
 
 Info:
 - Bugfix (Renai Transportation)
++ Broom Tool 1.1.4
++ Game Speed Button 0.3.0
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.6
 Date: 15 . 09. 2026
